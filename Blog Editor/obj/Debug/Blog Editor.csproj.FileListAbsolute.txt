@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\obj\Debug\Blog Editor.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\obj\Debug\Blog_Editor.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\obj\Debug\Blog Editor.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\bin\Debug\Blog Editor.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\bin\Debug\Blog Editor.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\bin\Debug\Blog Editor.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\obj\Debug\Blog Editor.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Blog Editor\Blog Editor\obj\Debug\Blog Editor.pdb

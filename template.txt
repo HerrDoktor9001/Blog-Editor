@@ -1,0 +1,27 @@
+			<!-- REPLACE -->
+
+	   		<article class="entry">
+
+					<header class="entry-header">
+
+						<h2 class="entry-title">
+							<a href="<!--LINK-->.html" title=""><!--TITULO--></a>
+						</h2> 				 
+					
+						<div class="entry-meta">
+							<ul>
+								<li><!--DATA--></li>
+								<span class="meta-sep">&bull;</span>								
+								<li><a href="#" title="" rel="category tag"><!--CATEGORIA--></a></li>
+								<span class="meta-sep">&bull;</span>
+								<li><!--AUTOR--></li>
+							</ul>
+						</div> 
+					 
+					</header> 
+					
+					<div class="entry-content">
+						<p><!--PARAGRAFO_1--></p>
+					</div> 
+
+				</article> <!-- end entry -->

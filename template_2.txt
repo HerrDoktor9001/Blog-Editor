@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Keep It Simple.</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
+
+	<!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+   <!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">  
+	<link rel="stylesheet" href="css/media-queries.css">    
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body class="single">
+
+
+
+   <!-- Content
+   ================================================== -->
+<body style="background-color:#87c7e1;" class="page">
+
+<div class ="container">
+
+	<header style="margin-top:90px;">
+				<!-- <h3> 20.06.2019 </h3> -->
+				<h2><a href="#"> Dani & Oseias </a></h2>
+	</header>
+
+	<div>
+		<img style="max-height:250px; z-index: -2; margin-top: -150px;" class="" src="logo.webp" alt="Logo"/>
+	</div>
+	<div class="content" style="background: rgba(255,255,255);">
+	
+		<!-- menu bar -->
+		<div class="menu-style"> 
+				<span class="right">
+					<a href="index.html">Início</a>
+					<a href="our_story.html" style="">Nossa História</a>
+					<a href="accommodation.html" style="">Acomodação</a>
+					<a href="registry.html" style="">Registro</a>
+					<a href="events.html" style="">Eventos</a>
+				</span>
+					<div class="clr"></div>
+		</div>
+		
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="css/main.css" />
+		 
+		<div class="box1" style="">
+   <div id="content-wrap">
+
+   	<div class="row">
+
+   			<article class="entry">
+
+					<header class="entry-header">
+
+						<h2 class="entry-title">
+							<!--TITULO-->
+						</h2> 				 
+				
+						<div class="entry-meta">
+							<ul>
+								<li><!--DATA--></li>
+								<span class="meta-sep">&bull;</span>							
+								<li>
+									<a href="#" title="" rel="category tag"><!--CATEGORIA--></a>  
+								</li>
+								<span class="meta-sep">&bull;</span>
+								<li><!--AUTOR--></li>
+							</ul>
+						</div> 
+				 
+					</header> 
+				
+					<div class="entry-content-media">
+						<div class="post-thumb">
+							<!--IMAGEM-->
+						</div> 
+					</div>
+
+					<div class="entry-content">
+						<p class="lead"> <!--PARAGRAFO--> </p>
+						<!--2ndPARAGRAPH-->
+						<!--3rdPARAGRAPH-->
+						
+					</div>
+
+					<p class="tags">
+  			         <span>Tagged in </span>:
+  				      <a href="#">orci</a>, <a href="#">lectus</a>, <a href="#">varius</a>, <a href="#">turpis</a>
+  			       </p> 
+
+  			       <ul class="post-nav group">
+<li class="prev"><a rel="prev" href="<!--ARTICLE-LINK_Pr-->"><strong>Previous Article</strong> <!--ARTICLE-TITLE_Pr--></a></li>
+<!--ARTICLE-LINK_Nx-->
+  			        </ul>
+
+				</article>
+
+
+  		</div> <!-- end row -->
+
+   </div> <!-- end content-wrap -->   
+   </div>
+   </div> 
+   	<footer class="footer">
+		<p style="text-align:center;"> </p>
+		<p style="text-align:center;"> </p>
+	</footer>
+   </div>
+
+</body>
+
+</html>
